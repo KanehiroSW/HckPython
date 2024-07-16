@@ -1,0 +1,10 @@
+pip install tensorflow
+pip install nltk
+pip install numpy
+pip install scikit-learn
+
+
+pip install pytesseract pillow
+pip install pytesseract pillow
+C:\Program Files\Tesseract-OCR
+export TF_ENABLE_ONEDNN_OPTS=0
